@@ -46,3 +46,4 @@
 		.egg~li{
 					border:10px solid pink ;
 				}
+				
